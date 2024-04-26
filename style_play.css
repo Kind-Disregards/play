@@ -233,6 +233,7 @@ a.menu_item:active {
 
 img.stream_link {
     height:30px;
+    padding-left:4px;
 }
 
 /* PARAGRAPH LINKS */
