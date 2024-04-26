@@ -118,7 +118,8 @@ img#new_release {
 }
 
 img#stream_new_release {
-    max-width:38%;
+    width:40%;
+    max-width:225px;
     border-radius: 3px;
 }
 
