@@ -90,7 +90,8 @@ div#wrapper_content {
 div#content {
 	max-width:630px;
 	margin:auto;
-    margin-top:2vh;
+	margin-top:2vh;
+	padding-bottom:5px;
 }
 
 header {
